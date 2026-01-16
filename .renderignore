@@ -1,0 +1,12 @@
+*.pt
+*.pth
+*.onnx
+__pycache__/
+*.pyc
+.git
+.gitignore
+*.ipynb
+.ipynb_checkpoints/
+venv/
+env/
+.env
